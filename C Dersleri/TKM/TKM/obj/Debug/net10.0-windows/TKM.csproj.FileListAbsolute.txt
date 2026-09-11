@@ -1,0 +1,16 @@
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\bin\Debug\net10.0-windows\TKM.exe
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\bin\Debug\net10.0-windows\TKM.deps.json
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\bin\Debug\net10.0-windows\TKM.runtimeconfig.json
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\bin\Debug\net10.0-windows\TKM.dll
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\bin\Debug\net10.0-windows\TKM.pdb
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.Form1.resources
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.csproj.GenerateResource.cache
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.AssemblyInfoInputs.cache
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.AssemblyInfo.cs
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.csproj.CoreCompileInputs.cache
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.dll
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\refint\TKM.dll
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.pdb
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\TKM.genruntimeconfig.cache
+C:\Users\mavin\Desktop\Projelerim\TKM\TKM\obj\Debug\net10.0-windows\ref\TKM.dll

@@ -1,0 +1,16 @@
+C:\Users\mavin\Desktop\Projelerim\HM\HM\bin\Debug\net10.0-windows\HM.exe
+C:\Users\mavin\Desktop\Projelerim\HM\HM\bin\Debug\net10.0-windows\HM.deps.json
+C:\Users\mavin\Desktop\Projelerim\HM\HM\bin\Debug\net10.0-windows\HM.runtimeconfig.json
+C:\Users\mavin\Desktop\Projelerim\HM\HM\bin\Debug\net10.0-windows\HM.dll
+C:\Users\mavin\Desktop\Projelerim\HM\HM\bin\Debug\net10.0-windows\HM.pdb
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.Form1.resources
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.csproj.GenerateResource.cache
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.AssemblyInfoInputs.cache
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.AssemblyInfo.cs
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.csproj.CoreCompileInputs.cache
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.dll
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\refint\HM.dll
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.pdb
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\HM.genruntimeconfig.cache
+C:\Users\mavin\Desktop\Projelerim\HM\HM\obj\Debug\net10.0-windows\ref\HM.dll
