@@ -1,0 +1,1 @@
+Selamlar, Ben Guar. YouTube kanalım olan C# eğitim videosunu çekmiş olduğum Derslerin Kaynak kodlarına buradan ulaşabilir, indirebilirsiniz. Dilerseniz videoya şu linkten ulaşabilirsiniz : https://youtu.be/Ind4SG7T0TU
